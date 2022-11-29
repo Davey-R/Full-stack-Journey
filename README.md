@@ -8,4 +8,4 @@ There are no instructions to this repository, this is my personal repository for
 This page will also recoed how many hours I've spend on the entire project including, breaktime, fiddling with GitHub, fiddling with code, etc,.
 They will be in the order of most time spent to least time spent.
 
-  11/28/2022 Starts around 11:30pm - developer.mozilla.org, github, snack, break(bathroom, walking around, having conversations) - End time: 
+  11/28/2022 Starts around 11:30pm - developer.mozilla.org, github, snack, break(bathroom, walking around, having conversations) - End time:12:16pm 
